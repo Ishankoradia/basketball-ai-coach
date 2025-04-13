@@ -19,19 +19,24 @@ The `AI-powered shooting form analysis tool` will use computer vision & pose est
 
 ## Milestones
 
-### Milestone 1: Pose detection
+### 1: Key point detection
+
+1.1 What is key point detection ?
+
+1.2 How do you run key point detection on an image ? (Explore various models)
+
+1.3 How does the output of a key point detection model look like ? Can you apply a logic to test if a pose if what you expect
+
+### 2: Train on an ideal/correct pose
 
 
-### Milestone 2: Train on an ideal/correct pose
+### 3: Run the model on a shooting clip
 
 
-### Milestone 3: Run the model on a shooting clip
+### 4: Ability to score user input
 
 
-### Milestone 4: Ability to score user input
+### 5: Textual feedback on user input
 
 
-### Milestone 5: Textual feedback on user input
-
-
-### Milestone 6: Package it as a app
+### 6: Package it as a app
