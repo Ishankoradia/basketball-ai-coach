@@ -19,13 +19,19 @@ The `AI-powered shooting form analysis tool` will use computer vision & pose est
 
 ## Milestones
 
-### 1: Key point detection
+### 1: Segmentation 
 
-1.1 What is key point detection ?
+1.1 From an image, how to pick the area (or bounding box) of a human ? 
 
-1.2 How do you run key point detection on an image ? (Explore various models)
+1.2 How to augment the above, to pick/select/localize the bounding box of a human in shooting position with basketball in hand ?
 
-1.3 How does the output of a key point detection model look like ? Can you apply a logic to test if a pose if what you expect
+### 2: Key point detection
+
+2.1 What is key point detection ?
+
+2.2 How do you run key point detection on an image ? (Explore various models)
+
+2.3 How does the output of a key point detection model look like ? Can you apply a logic to test if a pose if what you expect
 
 ### 2: Train on an ideal/correct pose
 
